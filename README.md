@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/pipelinedev/pipelinedev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PipelineDev/PipelineDev/output/snake.svg" alt="Snake animation" />
 
 ###
