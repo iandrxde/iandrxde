@@ -62,7 +62,7 @@
 
 ### 🌐 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/felipeandradecardenas/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />
   </a>
 </p>
